@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Akhunzada Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hi, I'm Akhunzada</h1>
+  <p>Web Developer | HTML, CSS, JavaScript, React, Node.js</p>
+</body>
+</html>
